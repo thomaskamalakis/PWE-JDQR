@@ -9,12 +9,12 @@ Please refer to LICENCE.txt for details on licencing.
 
 m-file description:
   
-  -PWE_JDQR.m is an example m-file that illustrates the use of the JDQR algorithm.
-  -jdqr.m is my implementation of the JDQR algorithm for HERMITIAN matrices. Do not use in non-Hermitian eigen-problems.
-  -MV.m describes the action of the eigen-matrix on a vector
-  -dielectric_tensors.m calculates the dielectric tensors required for averaging
-  -lattice_vectors_rect.m calculates the reciprocal lattice vectors.
-  -dielectric_averaging2.m performs dielectric averaging.
-  -mymgs.m performs modified Gram-Schmidt orthogonalization.
-  -orth_vecs.m calculates the orthogonal eigenvectors used in the magnetic field expansion.
+  PWE_JDQR.m is an example m-file that illustrates the use of the JDQR algorithm.
+  jdqr.m is my implementation of the JDQR algorithm for HERMITIAN matrices. Do not use in non-Hermitian eigen-problems.
+  MV.m describes the action of the eigen-matrix on a vector
+  dielectric_tensors.m calculates the dielectric tensors required for averaging
+  lattice_vectors_rect.m calculates the reciprocal lattice vectors.
+  dielectric_averaging2.m performs dielectric averaging.
+  mymgs.m performs modified Gram-Schmidt orthogonalization.
+  orth_vecs.m calculates the orthogonal eigenvectors used in the magnetic field expansion.
   
