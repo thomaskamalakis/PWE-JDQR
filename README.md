@@ -3,13 +3,13 @@ GNU-Octave / MATLAB implementation of the application of QR-type Jacobi-Davidson
 
 Coded by Thomas Kamalakis, Department of Informatics and Telematics, Harokopio University Greece
 
-Tested in GNU/Octave version 4.0.0 and MATLAB 8.5.0.197613 (R2015a)
+Tested on GNU/Octave version 4.0.0 and MATLAB 8.5.0.197613 (R2015a)
 
 Please refer to LICENCE.txt for details on licencing.
 
 m-file description:
   
-  PWE_JDQR.m is an example m-file that illustrates the use of the JDQR algorithm.
+  PWE_JDQR.m is an example m-file that illustrates the use of the JDQR algorithm in photonic crystal structures.
   jdqr.m is my implementation of the JDQR algorithm for HERMITIAN matrices. Do not use in non-Hermitian eigen-problems.
   MV.m describes the action of the eigen-matrix on a vector
   dielectric_tensors.m calculates the dielectric tensors required for averaging
